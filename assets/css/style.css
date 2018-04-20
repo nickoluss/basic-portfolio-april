@@ -1,0 +1,40 @@
+.name {
+    color: white;
+    background-color:green;
+    border:solid;
+    border-color:rgb(95, 93, 93);
+    border-width:2px;
+    padding:20px;
+    width: 85px;
+    float:left
+
+}
+.bigbox{
+    background-color: lightgray;
+    Height:550px;
+    width:100%;
+}
+footer {
+    background-color:green;
+    padding:20px;
+    border-top:2px;
+    border-top:solid;
+    border-color:rgb(95, 93, 93);
+}.mediumbox {
+    background-color: whitesmoke;
+    margin:5px;
+    border:solid;
+    border-color: rgb(95, 93, 93);
+    border-width:5px;
+    height:400px;
+    width: 65%;
+    position: relative;
+    top:65px;
+    left:150px;
+    z-index:10;
+}
+img{
+    position: relative;
+    right: 100px;
+    top:10px
+}
